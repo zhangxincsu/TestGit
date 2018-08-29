@@ -2,4 +2,6 @@ first change
 amend first
 amend first is invalid,do it again
 amend second
+to test branch, master branch make a change
 branch dev change
+edit on branch hotfix
