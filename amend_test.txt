@@ -1,3 +1,7 @@
 first change
+<<<<<<< HEAD
 amend first
 amend first is invalid,do it again
+=======
+amend first
+>>>>>>> dfb21ce6f97fd3c9d48fe8342ecbfa4b2074b5a6
