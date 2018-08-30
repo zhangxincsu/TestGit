@@ -20,3 +20,4 @@ master change
 rebase test
 rebase change master C18
 rebase change master C19
+rebase test on branch new dev second time
