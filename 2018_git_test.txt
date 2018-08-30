@@ -27,3 +27,4 @@ rebase test on branch new dev second time
 2
 dev 1
 master a
+master b
