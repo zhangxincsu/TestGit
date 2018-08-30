@@ -19,3 +19,4 @@ master c17 change
 master change
 rebase test
 rebase change master C18
+rebase change master C19
